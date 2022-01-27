@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Shreecharran Sundar
 - 👀 I’m interested in Machine learning algorithms
-- 💞️ I’m looking for Data Science internship opportunities
+- 💞️ I’m looking for Data Science/ML/DL/Statistics/Optimization internship opportunities for Summer 2022
+-
 - 📫 Reach me on: ssundar48@gatech.edu
 
 <!---
